@@ -1,0 +1,35 @@
+*Orientação a Objeto
+
+CLASSE - Atributos (Caracteristica) / MÉTODOS (Ações)
+nome
+data
+rg
+OBJETO - 
+nome: Vinicius
+data: 09-03-2004
+rg: 55.***.**.x
+
+CLASSE PESSOA
+-> nome
+-> endereço
+->rendimento
+-> calcular imposto()
+
+ENDERECO
+-> logradouro
+-> numero
+-> CEP
+-> BAIRRO
+
+
+PESSOA FISICA
+-> CPF
+-> rg
+-> data nascimento
+
+PESSOA JURIDICA
+-> cnpj
+-> nome empresa
+
+
+*
